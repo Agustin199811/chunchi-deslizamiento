@@ -64,6 +64,7 @@ Para visualizar los datos extraídos, puedes importar los archivos chunchi-news.
 
 ### Resultados en POWER BI:
 
+![Dashboard](image/image.jpeg)
 
 ## Contribuciones
 
