@@ -82,9 +82,9 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 ## Autores
 
-- Polanco Salome
-- Rojas Leslie
-- Toapanta Patricio
+- Polanco Salome  [ospolanco@uce.edu.ec]
+- Rojas Leslie [lrojasl@uce.edu.ec]
+- Toapanta Patricio [patoapantaa@uce.edu.ec]
 
 ## Licencia
 
